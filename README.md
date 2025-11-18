@@ -23,3 +23,14 @@ Dane pochodzą ze **StatsBomb Open Data**, a boisko i grafika zostały przygotow
 1. Zainstaluj biblioteki:
    ```bash
    pip install statsbombpy mplsoccer matplotlib
+---
+
+### 📌 Efekt
+- Na stronie głównej repozytorium zobaczysz nagłówek, opis meczu i obrazek.  
+- README będzie wyglądało jak profesjonalny raport analityczny.  
+
+---
+
+Teraz wystarczy, że **wrzucisz plik `mapa_podan_barcelona.png`** do repozytorium (przycisk **Upload files** na środku strony repozytorium), a ten README od razu pokaże obrazek.  
+
+Chcesz, żebym rozpisał Ci też **pełny kod `analysis.py`**, który generuje ten plik, żebyś miał komplet: kod + README + obrazek?
